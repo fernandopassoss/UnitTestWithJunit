@@ -72,3 +72,4 @@ Classe que simula um funcionário, realizando cálculos de bonificação e salá
 1. **Clonagem do repositório**: Clone este repositório para a sua máquina local:
    ```bash
    git clone <URL_DO_REPOSITORIO>
+2 . **Execução**: Execute cada arquivo como uma classe java normal.
